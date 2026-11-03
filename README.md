@@ -1,6 +1,6 @@
 # FIQA-as-MAD: When Morphs Look Better
 
-This repository contains the official implementation of the paper **"When Morphs Look Better: Face Image Quality as a Training-Free Signal for Morphing Attack Detection"**, accepted at BIOSIG 2026.
+This repository contains the official implementation of the paper **"[When Morphs Look Better: Face Image Quality as a Training-Free Signal for Morphing Attack Detection](https://arxiv.org/pdf/2611.00074)"**, accepted at BIOSIG 2026.
 
 ## Overview
 
